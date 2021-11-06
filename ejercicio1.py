@@ -6,3 +6,7 @@ imc=masa/altura**2
 
 
 print("Tu IMC es: "+str(imc))
+
+
+if imc > 25:
+    print("Tienes SOBREPESO")
